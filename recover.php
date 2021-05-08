@@ -1,5 +1,7 @@
 <?php
 // Realizamos consulta para obtener todos los datos
+
+// Este es un comentario nuevo
 include_once 'conexion.php';
 $email = $_GET['email'];
 
