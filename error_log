@@ -1,0 +1,59 @@
+[24-Apr-2021 12:03:39 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/market23/dev.marketingconweb.com/clase_php/conexion.php on line 9
+[24-Apr-2021 12:05:25 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'market23_udlphp'@'localhost' to database 'market23_ejercicio1' in /home/market23/dev.marketingconweb.com/clase_php/conexion.php on line 9
+[24-Apr-2021 12:07:23 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/market23/dev.marketingconweb.com/clase_php/funciones/functions.php on line 49
+[24-Apr-2021 12:08:34 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:1) in /home/market23/dev.marketingconweb.com/clase_php/registro_usuario.php on line 49
+[07-May-2021 22:45:49 America/New_York] PHP Fatal error:  Cannot redeclare latest_orders() (previously declared in /home/market23/dev.marketingconweb.com/clase_php/funciones/functions.php:99) in /home/market23/dev.marketingconweb.com/clase_php/funciones/functions.php on line 99
+[07-May-2021 22:45:50 America/New_York] PHP Fatal error:  Cannot redeclare latest_orders() (previously declared in /home/market23/dev.marketingconweb.com/clase_php/funciones/functions.php:99) in /home/market23/dev.marketingconweb.com/clase_php/funciones/functions.php on line 99
+[07-May-2021 22:45:53 America/New_York] PHP Fatal error:  Cannot redeclare latest_orders() (previously declared in /home/market23/dev.marketingconweb.com/clase_php/funciones/functions.php:99) in /home/market23/dev.marketingconweb.com/clase_php/funciones/functions.php on line 99
+[08-May-2021 10:08:03 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/market23/dev.marketingconweb.com/clase_php/conexion.php on line 9
+[08-May-2021 10:15:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 23
+[08-May-2021 10:15:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:25) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 28
+[08-May-2021 10:16:17 America/New_York] PHP Warning:  A non-numeric value encountered in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 23
+[08-May-2021 10:16:22 America/New_York] PHP Warning:  A non-numeric value encountered in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 23
+[08-May-2021 10:16:34 America/New_York] PHP Warning:  A non-numeric value encountered in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 23
+[08-May-2021 10:16:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 23
+[08-May-2021 10:16:55 America/New_York] PHP Warning:  A non-numeric value encountered in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 23
+[08-May-2021 10:38:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:38:26 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:38:55 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:39:12 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:39:32 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:40:53 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:41:12 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:41:14 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:41:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:41:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:41:19 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:41:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:42:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:43) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 48
+[08-May-2021 10:43:08 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 31
+[08-May-2021 10:43:08 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/header.php:8) in /home/market23/dev.marketingconweb.com/clase_php/header.php on line 59
+[08-May-2021 12:06:30 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/login.php:8) in /home/market23/dev.marketingconweb.com/clase_php/login.php on line 88
+[08-May-2021 12:06:34 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/login.php:8) in /home/market23/dev.marketingconweb.com/clase_php/login.php on line 88
+[08-May-2021 12:06:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/login.php:8) in /home/market23/dev.marketingconweb.com/clase_php/login.php on line 88
+[08-May-2021 13:08:26 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/market23/dev.marketingconweb.com/clase_php/recover.php on line 12
+[08-May-2021 13:14:24 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/market23/dev.marketingconweb.com/clase_php/recover.php on line 15
+[08-May-2021 13:17:00 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/market23/dev.marketingconweb.com/clase_php/recover.php on line 13
+[08-May-2021 13:17:01 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/market23/dev.marketingconweb.com/clase_php/recover.php on line 13
+[08-May-2021 13:17:02 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/market23/dev.marketingconweb.com/clase_php/recover.php on line 13
+[08-May-2021 13:19:25 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/market23/dev.marketingconweb.com/clase_php/recover.php on line 13
+[08-May-2021 13:24:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/market23/dev.marketingconweb.com/clase_php/recover.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/market23/dev.marketingconweb.com/clase_php/recover.php on line 4
+[08-May-2021 13:24:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/market23/dev.marketingconweb.com/clase_php/recover.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/market23/dev.marketingconweb.com/clase_php/recover.php on line 4
+[08-May-2021 13:24:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/market23/dev.marketingconweb.com/clase_php/recover.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/market23/dev.marketingconweb.com/clase_php/recover.php on line 4
+[08-May-2021 13:24:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/market23/dev.marketingconweb.com/clase_php/recover.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/market23/dev.marketingconweb.com/clase_php/recover.php on line 4
+[08-May-2021 13:51:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/registro.php:26) in /home/market23/dev.marketingconweb.com/clase_php/registro.php on line 52
+[08-May-2021 13:55:12 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/market23/dev.marketingconweb.com/clase_php/registro.php on line 60
+[08-May-2021 13:55:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/registro.php:28) in /home/market23/dev.marketingconweb.com/clase_php/registro.php on line 54
+[08-May-2021 13:56:28 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/market23/dev.marketingconweb.com/clase_php/registro.php:28) in /home/market23/dev.marketingconweb.com/clase_php/registro.php on line 55
